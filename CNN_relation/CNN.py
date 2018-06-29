@@ -1,21 +1,3 @@
-"""
-This is a CNN for relation classification within a sentence. The architecture is based on:
-
-Daojian Zeng, Kang Liu, Siwei Lai, Guangyou Zhou and Jun Zhao, 2014, Relation Classification via Convolutional Deep Neural Network
-
-Performance (without hyperparameter optimization):
-Accuracy: 0.7943
-Macro-Averaged F1 (without Other relation):  0.7612
-
-Performance Zeng et al.
-Macro-Averaged F1 (without Other relation): 0.789
-
-
-Code was tested with:
-- Theano 0.8.2
-- Keras 1.1.1
-- Python 2.7
-"""
 import numpy as np
 np.random.seed(1337)  # for reproducibility
 
