@@ -16,3 +16,9 @@ Directory of pre-trained GloVe embeddings and training, testing data can be set 
 ```cd RNN2/source``` <br>
 and then <br>
 ```python3 main.py```
+
+### Similarity
+```
+cd Similarity
+python3.6 similarity.py --train_path [path of training data] --test_path [path of testing data]
+```
