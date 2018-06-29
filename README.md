@@ -3,6 +3,6 @@
 ## How to execute
 
 ### RNN2
-```cd RNN2``` <br>
+```cd RNN2/source``` <br>
 and then <br>
 ```python3 main.py```
