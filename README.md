@@ -19,6 +19,5 @@ and then <br>
 
 ### Similarity
 ```
-cd Similarity
-python3.6 similarity.py --train_path [path of training data] --test_path [path of testing data]
+python3.6 Similarity/similarity.py --train_path [path of training data] --test_path [path of testing data]
 ```
